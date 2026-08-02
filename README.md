@@ -1,3 +1,2 @@
 # demo
-demo project
-this is demo file 
+This is the my first demo 
